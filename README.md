@@ -58,8 +58,3 @@ The visualizations are designed to support both **high-level monitoring** and **
 - COVID-19 impact varies significantly across continents and countries  
 - Percent population infected provides more meaningful insight than raw case counts alone  
 - Interactive dashboards enable faster and more intuitive data exploration  
-
----
-
-## 📚 Reference
-This project was developed by referencing general ideas and approaches shared by [Alex The Analyst](https://github.com/AlexTheAnalyst).
