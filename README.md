@@ -62,5 +62,4 @@ The visualizations are designed to support both **high-level monitoring** and **
 ---
 
 ## 📚 Reference
-This project was developed by referencing general ideas and approaches shared by  
-[Alex The Analyst](https://github.com/AlexTheAnalyst).
+This project was developed by referencing general ideas and approaches shared by [Alex The Analyst](https://github.com/AlexTheAnalyst).
