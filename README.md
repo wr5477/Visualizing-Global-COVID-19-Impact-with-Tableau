@@ -62,5 +62,5 @@ The visualizations are designed to support both **high-level monitoring** and **
 ---
 
 ## 📚 Reference
-This project was built as an independent Tableau practice project, inspired by the following tutorial:
-https://www.youtube.com/watch?v=QILNlRvJlfQ&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=2
+This project was developed by referencing general ideas and approaches shared by  
+[Alex The Analyst](https://github.com/AlexTheAnalyst).
